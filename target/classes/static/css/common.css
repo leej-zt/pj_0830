@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+/* 화면 최대폭 900 */
+.home {
+  width: 900px;
+  margin: auto;
+}
+
+/* 최대폭 300px */
+.w300 {
+  width: 300px;
+  display: inline-block;
+}
+
